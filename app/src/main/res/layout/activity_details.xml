@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout
+    android:padding="5dp"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+    <TextView
+        
+        android:id="@+id/d1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d6"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d8"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d9"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d10"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d11"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    
+    
+
+    <TextView
+        
+        android:id="@+id/d12"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:singleLine="true"
+        android:text="Details"
+        android:textColor="#000000"
+        android:textSize="15dp" />
+    
+    </LinearLayout>
+    
+    
+
+</ScrollView>
